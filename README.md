@@ -1,2 +1,2 @@
-# attendancetracker
-Keep track of classes, teachers, students and attendance
+# iscience
+Java App for managing iScience Students and Classes
