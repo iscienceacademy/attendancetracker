@@ -5,6 +5,9 @@ import static com.mongodb.client.model.Filters.eq;
 import com.iscience.tutoring.model.Student;
 import com.mongodb.client.MongoCollection;
 
+/**
+ * Manages Students collection
+*/
 public class StudentStore extends MongoStore {
 
 	private MongoCollection<Student> studentsCollection;
