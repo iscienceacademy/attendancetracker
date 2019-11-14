@@ -1,5 +1,8 @@
 package com.iscience.tutoring.model;
 
+/**
+ * Models a student
+*/
 public class Student {
 
 	private String studentName;

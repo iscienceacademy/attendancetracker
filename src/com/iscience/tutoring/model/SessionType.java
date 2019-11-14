@@ -1,5 +1,8 @@
 package com.iscience.tutoring.model;
 
+/**
+ * Models a tuoring session
+*/
 public class SessionType {
 	private int price;
 	private String subject;

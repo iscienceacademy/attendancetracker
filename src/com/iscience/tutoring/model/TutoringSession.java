@@ -2,6 +2,9 @@ package com.iscience.tutoring.model;
 
 import java.util.ArrayList;
 
+/**
+ * Models complete session 
+*/
 public class TutoringSession {
 
 	private Tutor tutor;
