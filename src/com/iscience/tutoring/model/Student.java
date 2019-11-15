@@ -1,7 +1,7 @@
 package com.iscience.tutoring.model;
 
 /**
- * Models a student
+ * Models a student; supports multiple grades
 */
 public class Student {
 
